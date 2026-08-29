@@ -4,7 +4,7 @@
 
 ### Multimedia Creative · Motion Designer & Video Editor · Sound Design & Music Production
 
-**Visuals, sound and digital experiences — built to communicate.**
+**Visuals, sound and digital experiences - built to communicate.**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-goncaloterroso.com-7D3C98?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goncaloterroso.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Gonçalo_Terroso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gon%C3%A7alo-terroso-488527346/)
@@ -21,7 +21,7 @@ I'm a **multimedia creative from Portugal** with a background in **Motion Design
 
 My work sits between **image, sound and digital media**: motion graphics, video editing, sound design, music production, graphic design and interactive/web projects. My music productions have accumulated **3M+ streams** across digital platforms, including work connected to artists such as **Kevin O Chris, PL Quest, Thxuzz, DEGE and Tomazacre**.
 
-In 2026, I completed an audiovisual production internship at the **Centro de Inovação Pedagógica — Politécnico do Porto**, working on institutional video, motion graphics, sound design, post-production, podcasts/videocasts and live-production support.
+In 2026, I completed an audiovisual production internship at the **Centro de Inovação Pedagógica - Politécnico do Porto**, working on institutional video, motion graphics, sound design, post-production, podcasts/videocasts and live-production support.
 
 > I like building things where **visual design, motion, sound and technology** can work together.
 
@@ -94,7 +94,7 @@ Sweep can review duplicates, old downloads, installers, archives, large files, s
 
 ### 🌐 [goncaloterroso.com](https://goncaloterroso.com)
 
-My audiovisual portfolio and personal website — designed to present work across **music production, motion design, video, sound and graphic design** through an interactive web experience.
+My audiovisual portfolio and personal website - designed to present work across **music production, motion design, video, sound and graphic design** through an interactive web experience.
 
 Repository:
 
@@ -104,7 +104,7 @@ Repository:
 
 ## Selected work
 
-### 🎵 Music Production — 3M+ streams
+### 🎵 Music Production - 3M+ streams
 
 I've been producing music independently since **2020**, working across composition, recording, vocal production, mixing, mastering and sound design.
 
@@ -114,9 +114,9 @@ Selected credits include work connected to:
 
 Featured releases on my portfolio include:
 
-- **Freestyle 01** — Thxuzz, L3OZIN, GonJ
-- **Freestyle 03** — Thxuzz
-- **Original Carioca** — PL Quest ft. MC Kevin O Chris
+- **Freestyle 01** - Thxuzz, L3OZIN, GonJ
+- **Freestyle 03** - Thxuzz
+- **Original Carioca** - PL Quest ft. MC Kevin O Chris
 
 [**Explore my music work →**](https://goncaloterroso.com/#projetos)
 
@@ -124,7 +124,7 @@ Featured releases on my portfolio include:
 
 ### 🎬 Motion, Video & Audiovisual Production
 
-At the **Centro de Inovação Pedagógica — P.PORTO**, I worked on audiovisual content from production through final delivery.
+At the **Centro de Inovação Pedagógica - P.PORTO**, I worked on audiovisual content from production through final delivery.
 
 Projects included:
 
@@ -140,7 +140,7 @@ Projects included:
 
 ---
 
-### ❄️ INVERNØ — Visual Identity
+### ❄️ INVERNØ - Visual Identity
 
 A visual identity and photography project for the music project **INVERNØ**.
 
@@ -162,12 +162,12 @@ My work included:
 ## Experience
 
 ### Freelance Music Producer & Sound Designer
-**2020 — Present**
+**2020 - Present**
 
 Independent music production for national and international artists, covering composition, recording, mixing, mastering, audio editing and sound design.
 
-### Audiovisual Production Intern — Centro de Inovação Pedagógica
-**Politécnico do Porto · Mar 2026 — Jun 2026**
+### Audiovisual Production Intern - Centro de Inovação Pedagógica
+**Politécnico do Porto · Mar 2026 - Jun 2026**
 
 Motion graphics, video editing, audiovisual post-production, sound design, graphic elements and support for institutional and live productions.
 
@@ -175,8 +175,8 @@ Motion graphics, video editing, audiovisual post-production, sound design, graph
 
 ## Education
 
-### CTeSP — Motion Design & Visual Effects
-**ESMAD — Escola Superior de Media Artes e Design**  
+### CTeSP - Motion Design & Visual Effects
+**ESMAD - Escola Superior de Media Artes e Design**  
 2021–2022 · 2025–2026
 
 Motion graphics, visual composition, audiovisual storytelling and post-production.
@@ -191,8 +191,8 @@ Multimedia production, graphic design, video editing and web development.
 
 ## Languages
 
-- 🇵🇹 **Portuguese** — Native
-- 🇬🇧 **English** — C1 / Fluent
+- 🇵🇹 **Portuguese** - Native
+- 🇬🇧 **English** - C1 / Fluent
 
 ---
 
