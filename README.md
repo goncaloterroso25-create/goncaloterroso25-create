@@ -25,7 +25,7 @@ In 2026, I completed an audiovisual production internship at the **Centro de Ino
 
 > I like building things where **visual design, motion, sound and technology** can work together.
 
-For software and web projects, I use **AI-assisted development** as part of my workflow. My focus is on **creative direction, product thinking, UX/UI, feature definition, testing and iteration** rather than presenting myself as a traditional software engineer.
+For software and web projects, I use **AI-assisted development** as part of my workflow. My focus is on **creative direction, product thinking, UX/UI, feature definition, testing and iteration** rather than presenting myself as a traditional software engineer. I intend to start studying programming, app and web development very soon, while trying to actively create new projects along the way.
 
 ---
 
