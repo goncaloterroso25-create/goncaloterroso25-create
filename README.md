@@ -92,6 +92,16 @@ Sweep can review duplicates, old downloads, installers, archives, large files, s
 
 ---
 
+### 🌐 [goncaloterroso.com](https://goncaloterroso.com)
+
+My audiovisual portfolio and personal website — designed to present work across **music production, motion design, video, sound and graphic design** through an interactive web experience.
+
+Repository:
+
+[**Portfolio-Goncalo-Terroso →**](https://github.com/goncaloterroso25-create/Portfolio-Goncalo-Terroso)
+
+---
+
 ## Selected work
 
 ### 🎵 Music Production — 3M+ streams
@@ -146,17 +156,6 @@ My work included:
 **Tools:** Photoshop · Lightroom
 
 [**View the project →**](https://goncaloterroso.com/#projetos)
-
----
-
-
-### 🌐 [goncaloterroso.com](https://goncaloterroso.com)
-
-My audiovisual portfolio and personal website — designed to present work across **music production, motion design, video, sound and graphic design** through an interactive web experience.
-
-Repository:
-
-[**Portfolio-Goncalo-Terroso →**](https://github.com/goncaloterroso25-create/Portfolio-Goncalo-Terroso)
 
 ---
 
