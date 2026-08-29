@@ -25,6 +25,8 @@ In 2026, I completed an audiovisual production internship at the **Centro de Ino
 
 > I like building things where **visual design, motion, sound and technology** can work together.
 
+For software and web projects, I use **AI-assisted development** as part of my workflow. My focus is on **creative direction, product thinking, UX/UI, feature definition, testing and iteration** rather than presenting myself as a traditional software engineer.
+
 ---
 
 ## What I work with
@@ -60,24 +62,41 @@ In 2026, I completed an audiovisual production internship at the **Centro de Ino
 - Lightroom
 - Blender / Maya when a project needs 3D
 
-### Web & Development
-- HTML
-- CSS
-- JavaScript
-- Kotlin
-- Jetpack Compose
+### Web & Creative Technology
+- HTML / CSS / JavaScript
 - Git & GitHub
+- AI-assisted development workflows
+- Product prototyping & iterative testing
+- Kotlin / Jetpack Compose *(used in Sweep with AI-assisted implementation)*
+- Next.js / TypeScript / Payload CMS *(used in INVERNØ's website)*
 
 </td>
 </tr>
 </table>
 
 ---
+
+## Current collaboration
+
+### ❄️ INVERNØ - Creative & Digital
+
+I currently work directly with **INVERNØ**, a dark-wave / rock project from Vila do Conde, contributing to the band's **visual identity, photography, digital presence, web design and development, motion-led experiences and creative assets**.
+
+**Members**
+- **RUI T (Rui Terroso)** - vocals & multi-instrumentalist
+- **André Rodrigues** - guitar
+- **Gabriel Maia** - guitar
+
+**Band links:** [Official Website](https://www.invernomusic.com) · [Instagram](https://www.instagram.com/invernomusic.pt/) · [YouTube](https://www.youtube.com/@invernomusicpt) · [Bandcamp](https://invernomusic.bandcamp.com/) · [Linktree](https://linktr.ee/invernomusic.pt)
+
+---
 ## Digital projects
 
 ### 🧹 [Sweep](https://github.com/goncaloterroso25-create/Sweep)
 
-A functional Android storage-cleanup app built as a personal portfolio project using **Kotlin and Jetpack Compose**.
+A functional Android storage-cleanup app created as a personal portfolio project using **Kotlin and Jetpack Compose** through an **AI-assisted development workflow**.
+
+I lead the **product concept, UX/UI, feature specification, testing, iteration and release decisions**, while AI coding tools are used extensively for implementation. Sweep is not intended to represent native Kotlin expertise; it demonstrates my ability to **design, direct, test and ship a functional digital product using modern development workflows**.
 
 Sweep can review duplicates, old downloads, installers, archives, large files, screenshots, empty folders, cache usage and unused apps while keeping the user in control of what gets removed.
 
@@ -99,6 +118,22 @@ My audiovisual portfolio and personal website - designed to present work across 
 Repository:
 
 [**Portfolio-Goncalo-Terroso →**](https://github.com/goncaloterroso25-create/Portfolio-Goncalo-Terroso)
+
+---
+
+### ❄️ INVERNØ - Official Website *(Work in Progress)*
+
+As part of my ongoing work with **INVERNØ**, I'm designing and directing the development of the band's new official website as a complete digital home for its **music, identity, live presence and audience experience**.
+
+The project combines **responsive web design, motion-led interactions, multilingual content, gallery and music experiences, booking functionality and a custom content-management workflow**, with a strong focus on translating INVERNØ's dark visual language into a cohesive interactive experience.
+
+Development uses an **AI-assisted coding workflow**. I lead the **creative direction, UX/UI, visual design, motion direction, feature decisions, testing and iteration**, while AI tools assist heavily with implementation.
+
+**Stack:** Next.js · TypeScript · Payload CMS · Motion / interaction design
+
+**Band:** [invernomusic.com](https://www.invernomusic.com) · [Instagram](https://www.instagram.com/invernomusic.pt/) · [YouTube](https://www.youtube.com/@invernomusicpt)
+
+> Currently in active development. A public GitHub repository will be added once the project is ready for release.
 
 ---
 
@@ -142,7 +177,7 @@ Projects included:
 
 ### ❄️ INVERNØ - Visual Identity
 
-A visual identity and photography project for the music project **INVERNØ**.
+Ongoing visual identity and photography work developed as part of my collaboration with **INVERNØ**.
 
 My work included:
 
