@@ -73,6 +73,24 @@ In 2026, I completed an audiovisual production internship at the **Centro de Ino
 </table>
 
 ---
+## Digital projects
+
+### 🧹 [Sweep](https://github.com/goncaloterroso25-create/Sweep)
+
+A functional Android storage-cleanup app built as a personal portfolio project using **Kotlin and Jetpack Compose**.
+
+Sweep can review duplicates, old downloads, installers, archives, large files, screenshots, empty folders, cache usage and unused apps while keeping the user in control of what gets removed.
+
+**Highlights**
+- Functional MVP tested on physical Android devices
+- On-device storage analysis
+- File preview and review-before-delete workflow
+- Duplicate detection
+- Cache and unused-app reporting
+- No networking / no analytics
+- Custom UX, motion and haptic feedback
+
+---
 
 ## Selected work
 
@@ -131,24 +149,6 @@ My work included:
 
 ---
 
-## Digital projects
-
-### 🧹 [Sweep](https://github.com/goncaloterroso25-create/Sweep)
-
-A functional Android storage-cleanup app built as a personal portfolio project using **Kotlin and Jetpack Compose**.
-
-Sweep can review duplicates, old downloads, installers, archives, large files, screenshots, empty folders, cache usage and unused apps while keeping the user in control of what gets removed.
-
-**Highlights**
-- Functional MVP tested on physical Android devices
-- On-device storage analysis
-- File preview and review-before-delete workflow
-- Duplicate detection
-- Cache and unused-app reporting
-- No networking / no analytics
-- Custom UX, motion and haptic feedback
-
----
 
 ### 🌐 [goncaloterroso.com](https://goncaloterroso.com)
 
