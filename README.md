@@ -2,7 +2,7 @@
 
 # Gonçalo Terroso
 
-### Multimedia Creative · Motion Designer & Video Editor · Sound Design & Music Production
+### Multimedia Creative · Video Editing & Motion Graphics · Sound Design & Music Production
 
 **Visuals, sound and digital experiences - built to communicate.**
 
